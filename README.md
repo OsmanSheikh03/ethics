@@ -1,4 +1,4 @@
-# ethics
+# Ethics
 # Ethics Portfolio – University Coursework
 
 This repository showcases two major pieces of coursework submitted for an undergraduate ethics module:  
